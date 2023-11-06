@@ -3,6 +3,8 @@ Product-Service/target/
 !.mvn/wrapper/maven-wrapper.jar
 !Product-Service/src/main/**/target/
 !Product-Service/src/test/**/target/
+!Order-Service/src/main/**/target/
+!Order-Service/src/test/**/target/
 
 ### STS ###
 .apt_generated
@@ -27,7 +29,9 @@ Product-Service/target/
 /.nb-gradle/
 build/
 !Product-Service/src/main/**/build/
+!Order-Service/src/main/**/build/
 !Product-Service/src/test/**/build/
+!Order-Service/src/test/**/build/
 
 ### VS Code ###
 .vscode/
